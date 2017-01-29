@@ -1,3 +1,5 @@
 Total revenue for the summer : 2138
 Top 10% temperatures : 84, 83
 Bottom 10% temperatures : 71,70
+Correlation between sales and leaflets : Sales increase with the number of leaflets
+Revenu datas are right skewed
